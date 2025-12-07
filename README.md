@@ -1,4 +1,4 @@
-# Hi there, I'm Omar Shaikh 👋  
+# Hi there 👋  
 
 ## 👨‍💻 About Me  
 I'm an enthusiastic and detail-oriented Computer Science student with a passion for **Data Science**, **Product Management**, and **Software Development**. I enjoy creating user-focused solutions and collaborating with cross-functional teams to deliver high-quality products.  
