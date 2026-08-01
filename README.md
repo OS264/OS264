@@ -42,7 +42,7 @@ Multimodal LLMs · Agentic AI · RAG systems · Prompt Engineering · Computer V
 
 <div align="center">
 
-[![GitFut card](https://gitfut.com/OS264/opengraph-image?57b1687aaacbd944)](https://gitfut.com/OS264)
+
 
 </div>
 
