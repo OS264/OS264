@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm OS
+# Hi, I'm Omar Shaikh
 
 **CSE Graduate · AI Application Developer**
 
@@ -31,22 +31,7 @@ Multimodal LLMs · Agentic AI · RAG systems · Prompt Engineering · Computer V
 
 <br>
 
-### Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=OS264&show_icons=true&theme=default&hide_border=true&hide_title=true" height="150" alt="github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OS264&layout=compact&theme=default&hide_border=true&hide_title=true" height="150" alt="top languages"/>
-
-</div>
-
-<div align="center">
-
-
-
-</div>
-
-<br>
 
 ### Connect
 
